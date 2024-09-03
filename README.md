@@ -2,7 +2,7 @@
 <h3 align="center">An aspirirng Software Developer.</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Backend Developemt.<br><br>👨‍💻 All of my projects are available at https://lakshyaportfolio.vercel.app/<br><br>💬 Ask me about HTML, CSS, javascript/typescript , BootStrap, Tailwind CSS, Shadcn, React js, Redux, MongoDB, Nodejs, Expressjs, SQL.<br><br>📫 How to reach me lakshyakumarsingh.2003.va@gmail.com<br><br>📄 Know about me [[https://drive.google.com/file/d/1nhdp12W0tPjjNp1ONuIVFabB11efJ6BV/view?usp=drive_link](https://docs.google.com/document/d/1c837A2BT-uc45_fh7xfAGlKnmP2xQmQ6/edit?usp=sharing&ouid=108652099135313964944&rtpof=true&sd=true)](https://docs.google.com/document/d/1HaAEEEp8xipToy-2Xs48VFzVq3KSnS7Y4JJ4mKKT8LQ/edit?usp=sharing)<br><br>⚡ Fun fact I am a writer too 🤪.
+🌱 I’m currently learning Backend Developemt.<br><br>👨‍💻 All of my projects are available at https://lakshyaportfolio.vercel.app/<br><br>💬 Ask me about HTML, CSS, javascript/typescript , BootStrap, Tailwind CSS, Shadcn, React js, Redux, MongoDB, Nodejs, Expressjs, SQL.<br><br>📫 How to reach me lakshyakumarsingh.2003.va@gmail.com<br><br>📄 Know about me https://docs.google.com/document/d/1HaAEEEp8xipToy-2Xs48VFzVq3KSnS7Y4JJ4mKKT8LQ/edit?usp=sharing<br><br>⚡ Fun fact I am a writer too 🤪.
 
 
 ## 🌐 Socials:
