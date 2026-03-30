@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Lakshya Kumar Singh.</h1>
-<h3 align="center">Jr. Backend Developer at GKMIT.</h3>
+<h3 align="center">Jr. Backend Developer at GKMIT | Node.js · PostgreSQL · REST APIs</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Advance Backend Development and AI.<br><br>👨‍💻 All of my projects are available at https://lakshyaportfolio.vercel.app/<br><br>💬 Ask me about HTML, CSS, javascript/typescript , BootStrap, Tailwind CSS, Shadcn, React js, Redux, MongoDB, Nodejs, Expressjs, NestJs, SQL, NoSql.<br><br>📫 How to reach me lakshyakumarsingh.2003.va@gmail.com<br><br>📄 Know about me https://docs.google.com/document/d/1HaAEEEp8xipToy-2Xs48VFzVq3KSnS7Y4JJ4mKKT8LQ/edit?usp=sharing<br><br>⚡ Fun fact I am a writer too 🤪.
+🔭 Currently working on **SkillXChange** — a microservice-based peer-to-peer skill exchange platform with real-time messaging.<br><br>
+🌱 Exploring **Advanced Backend Architecture, System Design, and AI/ML integrations.**<br><br>
+👨‍💻 All of my projects are available at https://lakshyaportfolio.vercel.app/<br><br>
+💬 Ask me about **Node.js, Express.js, NestJS, PostgreSQL, Redis, REST APIs, Sequelize, Prisma, Docker, System Design.**<br><br>
+📫 Reach me at **lakshyakumarsingh.2003.va@gmail.com**<br><br>
+📄 My Resume: https://lakshyaportfolio.vercel.app/<br><br>
+⚡ Fun fact: I'm a writer too 🤪 — and I've won awards for research papers in AI & ML!
 
 
 ## 🌐 Socials:
