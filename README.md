@@ -2,7 +2,7 @@
 <h3 align="center">Jr. Backend Developer at GKMIT | Node.js · PostgreSQL · REST APIs</h3>
 
 # 💫 About Me:
-🔭 Currently working on **SkillXChange** — a microservice-based peer-to-peer skill exchange platform with real-time messaging.<br><br>
+🔭 Currently working on **HireBoard** — a Mini Job Application Tracker A personal CRM for job hunting.<br><br>
 🌱 Exploring **Advanced Backend Architecture, System Design, and AI/ML integrations.**<br><br>
 👨‍💻 All of my projects are available at https://lakshyaportfolio.vercel.app/<br><br>
 💬 Ask me about **Node.js, Express.js, NestJS, PostgreSQL, Redis, REST APIs, Sequelize, Prisma, Docker, System Design.**<br><br>
