@@ -5,7 +5,7 @@
 🌱 Exploring **Advanced Backend Architecture, System Design, and AI/ML integrations.**<br><br>
 👨‍💻 All of my projects are available at https://lakshyaportfolio.vercel.app/<br><br>
 💬 Ask me about **Node.js, Express.js, NestJS, Go, PostgreSQL, Redis, REST APIs, Sequelize, Prisma, Docker, System Design.**<br><br>
-📫 Reach me at **lakshyakumarsingh26va@gmail.com**<br><br>
+📫 Reach me at **lakshyakumarsingh26@gmail.com**<br><br>
 📄 My Resume: [https://lakshyaportfolio.vercel.app/](https://docs.google.com/document/d/1C-hsVuSfts6GKzbQIubs18M3ITDpKWMAthF8YscG8to/edit?usp=sharing)<br><br>
 ⚡ Fun fact: I'm a writer too 🤪 — and I've won awards for research papers in AI & ML!
 
