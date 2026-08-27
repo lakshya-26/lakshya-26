@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshya Kumar Singh.</h1>
-<h3 align="center">Software Engineer at Spark Eighteen | Node.js · Go · PostgreSQL · REST APIs</h3>
+<h3 align="center">Sr. Backend Engineer at Big Happy | Node.js · Go · PostgreSQL · AWS, Infra</h3>
 
 # 💫 About Me:
 🌱 Exploring **Advanced Backend Architecture, System Design, and AI/ML integrations.**<br><br>
